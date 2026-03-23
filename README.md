@@ -6,6 +6,14 @@ I'm Yujie (Irene) Kang, here's something about me:
 📊 Interested in ML, Finance, and Risk Modeling  
 🚀 Building real-world data products  
 
+---
+
+## Connect With Me!
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kangyuj0531)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yujie-kang/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:irenek5264@gmail.com)
+
 
 ---
 
@@ -13,7 +21,7 @@ I'm Yujie (Irene) Kang, here's something about me:
 
 | Projects | ⭐ Brief Descriptions ⭐ |
 |----------|--------------------------|
-| 💳 Transaction-Based Credit Scoring | Built transaction categorization and delinquency prediction workflows using large-scale consumer transaction data, with DistilBERT and credit risk feature engineering. |
+| 💳 [Credit Risk Modeling](https://github.com/kangyuj0531/dsc180a-prism-data) | Built transaction categorization and delinquency prediction workflows using large-scale consumer transaction data, with DistilBERT and credit risk feature engineering. |
 
 
 ---
@@ -29,11 +37,3 @@ I'm Yujie (Irene) Kang, here's something about me:
 ![AWS](https://img.shields.io/badge/AWS_RDS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
----
-
-## Connect With Me!
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kangyuj0531)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yujie-kang/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:irenek5264@gmail.com)
