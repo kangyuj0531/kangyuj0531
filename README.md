@@ -17,12 +17,13 @@ I'm Yujie (Irene) Kang, here's something about me:
 
 ---
 
-## 🔬 Projects
+## 🚀 Featured Projects
 
-| Projects | ⭐ Brief Descriptions ⭐ |
-|----------|--------------------------|
-| 💳 [Credit Risk Modeling](https://github.com/kangyuj0531/dsc180a-prism-data) | Built transaction categorization and delinquency prediction workflows using large-scale consumer transaction data, with DistilBERT and credit risk feature engineering. |
+### 💳 Credit Risk Modeling
+[![Credit Risk Modeling](https://github-readme-stats.vercel.app/api/pin/?username=你的用户名&repo=credit-risk-modeling)](https://github.com/你的用户名/credit-risk-modeling)
 
+### 🍳 Recipes Analysis
+[![Recipes Analysis](https://github-readme-stats.vercel.app/api/pin/?username=kangyuj0531&repo=recipes-analysis)](https://github.com/kangyuj0531/recipes-analysis)
 
 ---
 
