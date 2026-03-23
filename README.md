@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi there 👋 I'm Yujie (Irene) Kang
 
-<!--
-**kangyuj0531/kangyuj0531** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Science @ UCSD  
+📊 Interested in ML, Finance, and Risk Modeling  
+🚀 Building real-world data products  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Projects
+- 💳 Credit Risk Modeling (DistilBERT, ROC-AUC 0.81)
+- 📄 NeurIPS Data Pipeline (4,500+ papers)
+- 🏠 Housing Price Prediction (XGBoost, RF, LGBM)
+
+---
+
+## ⚙️ Tech Stack
+![Python](https://img.shields.io/badge/Python-blue)
+![SQL](https://img.shields.io/badge/SQL-green)
+![PyTorch](https://img.shields.io/badge/PyTorch-red)
+![AWS](https://img.shields.io/badge/AWS-orange)
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=kangyuj0531)
