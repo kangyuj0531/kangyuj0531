@@ -19,9 +19,15 @@ I'm Yujie (Irene) Kang, here's something about me:
 
 ## 🚀 Featured Projects
 
-| 💳 Credit Risk Modeling | 🍳 Recipe Data Analysis |
-|------------------------|--------------------------|
-| [![Credit Risk](https://github-readme-stats.vercel.app/api/pin/?username=kangyuj0531&repo=dsc180a-prism-data)](https://github.com/kangyuj0531/dsc180a-prism-data) | [![Recipes](https://github-readme-stats.vercel.app/api/pin/?username=kangyuj0531&repo=recipes-analysis)](https://github.com/kangyuj0531/recipes-analysis) |
+<div align="center">
+  
+<a href="https://github.com/kangyuj0531/dsc180a-prism-data">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kangyuj0531&repo=dsc180a-prism-data" />
+</a>
+
+<a href="https://github.com/kangyuj0531/recipes-analysis">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kangyuj0531&repo=recipes-analysis" />
+</a>
 
 ---
 
