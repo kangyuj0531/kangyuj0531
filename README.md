@@ -14,17 +14,6 @@ I'm Yujie (Irene) Kang, here's something about me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yujie-kang/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:irenek5264@gmail.com)
 
-
----
-
-## 🚀 Featured Projects
-
-### 💳 Credit Risk Modeling
-[![Credit Risk](https://github-readme-stats.vercel.app/api/pin/?username=kangyuj0531&repo=dsc180a-prism-data)](https://github.com/kangyuj0531/dsc180a-prism-data)
-
-### 🍳 Recipe Data Analysis
-[![Recipes](https://github-readme-stats.vercel.app/api/pin/?username=kangyuj0531&repo=recipes-analysis)](https://github.com/kangyuj0531/recipes-analysis)
-
 ---
 
 ### Coding Languages / Tools 
