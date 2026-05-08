@@ -1,6 +1,6 @@
 ## Hi there 👋 Welcome to my page!
 
-I'm Yujie (Irene) Kang, here's something about me:
+I'm Yujie Kang, feel free to call me Irene. Here's something about me:
 
 🎓 Data Science @ UCSD  
 📊 Interested in ML, Finance, and Risk Modeling  
